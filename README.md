@@ -261,7 +261,7 @@ Install Python and Visual Studio Code, with support for Jupyter notebooks.
 After publishing the project to GitHub, run:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/JV-254/STUDENT-PERFORMANCE-ANALYSIS-USING-PYTHON>
 ```
 
 Replace `<your-repository-url>` with your actual GitHub repository URL.
